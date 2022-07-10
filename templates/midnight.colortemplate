@@ -26,6 +26,8 @@ IncSearch	gray		aqua
 MatchParen	gray		aqua
 NonText		gray		gray
 Normal		white		gray
+Pmenu		gray		magenta
+PmenuSel	gray		aqua
 PreProc		white		gray
 Search		gray		aqua
 Special		white		gray
