@@ -35,7 +35,7 @@ Statement	white		gray
 StatusLine	white		black
 StatusLineNC	white		gray
 Type		white		gray
-VertSplit	white		gray
+VertSplit	gray		gray
 Visual		gray		magenta
 WarningMsg	orange		gray
 
