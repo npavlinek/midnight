@@ -30,6 +30,7 @@ NonText         gray            gray
 Normal          dark_gray       gray
 PreProc         white           gray
 Special         white           gray
+SpellBad        orange          gray        underline
 Statement       white           gray
 StatusLine      white           black
 StatusLineNC    white           gray
