@@ -33,6 +33,7 @@ Special         white           gray
 Statement       white           gray
 StatusLine      white           black
 StatusLineNC    white           gray
+Title           magenta         gray        bold
 Todo            orange          gray        bold
 Type            white           gray
 VertSplit       gray            gray
