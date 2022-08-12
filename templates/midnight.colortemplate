@@ -10,6 +10,7 @@ Variant:    gui 256
 
 Color:          black           #000000     ~
 Color:          dark_gray       #a0a0a0     ~
+Color:          darker_gray     #222222     ~
 Color:          gray            #0c0c0c     ~
 Color:          green           #00ff00     ~
 Color:          magenta         #c481ff     ~
@@ -22,6 +23,7 @@ Term Colors:    gray orange green gray gray magenta gray white
 Comment         magenta         gray
 Constant        white           gray
 Cursor          black           white
+CursorLine      dark_gray       darker_gray
 Error           gray            orange
 Identifier      white           gray
 IncSearch       gray            magenta
@@ -38,5 +40,5 @@ Title           magenta         gray        bold
 Todo            orange          gray        bold
 Type            white           gray
 VertSplit       gray            gray
-Visual          black           white
+Visual          dark_gray       darker_gray
 WarningMsg      orange          gray
