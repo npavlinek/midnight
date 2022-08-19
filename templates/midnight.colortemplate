@@ -1,4 +1,4 @@
-; vim: ts=4 sts=4 sw=4 et
+; vim: ts=2 sts=2 sw=2 et
 
 Full Name:  Midnight
 Short Name: midnight
@@ -8,37 +8,47 @@ License:    Unlicense
 Background: dark
 Variant:    gui 256
 
-Color:          black           #000000     ~
-Color:          dark_gray       #a0a0a0     ~
-Color:          darker_gray     #222222     ~
-Color:          gray            #0c0c0c     ~
-Color:          green           #00ff00     ~
-Color:          magenta         #c481ff     ~
-Color:          orange          #ff8581     ~
-Color:          white           #cccccc     ~
+Color:  black   #0c0c0c ~
+Color:  red     #ff544e ~
+Color:  green   #00ff00 ~
+Color:  yellow  #ffcc00 ~
+Color:  blue    #0000ff ~
+Color:  magenta #ac4eff ~
+Color:  cyan    #00c4c4 ~
+Color:  white   #cccccc ~
 
-Term Colors:    gray orange green gray gray magenta gray white
-Term Colors:    gray orange green gray gray magenta gray white
+Color:  bright_black    #222222 ~
+Color:  bright_red      #ff8581 ~
+Color:  bright_green    #33ff33 ~
+Color:  bright_yellow   #ffd633 ~
+Color:  bright_blue     #3333ff ~
+Color:  bright_magenta  #c481ff ~
+Color:  bright_cyan     #00f7f7 ~
+Color:  bright_white    #a0a0a0 ~
 
-Comment         magenta         gray
-Constant        white           gray
-Cursor          black           white
-CursorLine      dark_gray       darker_gray
-Error           gray            orange
-Identifier      white           gray
-IncSearch       gray            magenta
-MatchParen      orange          gray
-NonText         gray            gray
-Normal          dark_gray       gray
-PreProc         white           gray
-Special         white           gray
-SpellBad        orange          gray        underline
-Statement       white           gray
-StatusLine      white           black
-StatusLineNC    white           gray
-Title           magenta         gray        bold
-Todo            orange          gray        bold
-Type            white           gray
-VertSplit       gray            gray
-Visual          dark_gray       darker_gray
-WarningMsg      orange          gray
+Term Colors:  black red green yellow blue magenta cyan white
+
+Term Colors:  bright_black bright_red bright_green bright_yellow
+Term Colors:  bright_blue bright_magenta bright_cyan bright_white
+
+Comment       bright_magenta  black
+Constant      white           black
+Cursor        black           white
+CursorLine    bright_white    bright_black
+Error         black           red
+Identifier    white           black
+MatchParen    red             black
+NonText       black           black
+Normal        bright_white    black
+PreProc       white           black         bold
+Special       white           black
+SpellBad      red             black
+Statement     white           black
+StatusLine    white           bright_black
+StatusLineNC  white           black
+Title         bright_magenta  black         bold
+Todo          bright_red      black         bold
+Type          white           black
+VertSplit     black           black
+Visual        bright_white    bright_black
+WarningMsg    red             black
