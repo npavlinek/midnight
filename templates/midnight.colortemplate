@@ -34,7 +34,7 @@ Term Colors:  bright_blue bright_magenta bright_cyan bright_white
 Comment       bright_magenta  black
 Constant      white           black
 Cursor        black           white
-CursorLine    bright_white    bright_black
+CursorLine    none            bright_black
 Error         black           red
 Identifier    white           black
 MatchParen    red             black
