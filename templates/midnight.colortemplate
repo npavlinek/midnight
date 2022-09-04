@@ -37,6 +37,7 @@ Cursor        black           white
 CursorLine    none            bright_black
 Error         black           red
 Identifier    white           black
+LineNr        bright_white    black
 MatchParen    red             black
 NonText       black           black
 Normal        bright_white    black
