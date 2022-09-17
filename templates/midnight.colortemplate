@@ -35,7 +35,12 @@ Comment       bright_magenta  black
 Constant      white           black
 Cursor        black           white
 CursorLine    none            bright_black
+DiffAdd       black           bright_green
+DiffChange    black           bright_yellow
+DiffDelete    black           red
+DiffText      black           bright_red
 Error         black           red
+FoldColumn    bright_white    black         bold
 Folded        bright_white    black
 Identifier    white           black
 LineNr        bright_white    black
@@ -43,6 +48,7 @@ MatchParen    red             black
 NonText       black           black
 Normal        bright_white    black
 PreProc       white           black         bold
+SignColumn    bright_white    black         bold
 Special       white           black
 SpellBad      red             black
 Statement     white           black
