@@ -8,7 +8,7 @@ License:    Unlicense
 Background: dark
 Variant:    gui 256
 
-Color:  black   #0c0c0c ~
+Color:  black   #000000 ~
 Color:  red     #ff544e ~
 Color:  green   #00ff00 ~
 Color:  yellow  #ffcc00 ~
